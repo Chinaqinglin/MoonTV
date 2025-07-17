@@ -77,5 +77,25 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     }
+    "豪华": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
+    }
+    "非凡": {
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡资源"
+    }
+    "u酷": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "u酷资源"
+    }
+    "茅台": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源"
+    }
+    "极速": {
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "name": "极速资源"
+    }
   }
 }
